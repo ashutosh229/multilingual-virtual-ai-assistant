@@ -1,0 +1,13 @@
+prefix=c:/Users/akuma/Desktop/GenAI/multilingual-virtual-ai-assistant/mvaaenv/Library
+exec_prefix=c:/Users/akuma/Desktop/GenAI/multilingual-virtual-ai-assistant/mvaaenv/Library
+libdir=c:/Users/akuma/Desktop/GenAI/multilingual-virtual-ai-assistant/mvaaenv/Library/lib
+sharedlibdir=c:/Users/akuma/Desktop/GenAI/multilingual-virtual-ai-assistant/mvaaenv/Library/lib
+includedir=c:/Users/akuma/Desktop/GenAI/multilingual-virtual-ai-assistant/mvaaenv/Library/include
+
+Name: zlib
+Description: zlib compression library
+Version: 1.3.1
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}

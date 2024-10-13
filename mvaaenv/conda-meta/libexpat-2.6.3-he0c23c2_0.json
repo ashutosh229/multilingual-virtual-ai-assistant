@@ -1,0 +1,46 @@
+{
+  "build": "he0c23c2_0",
+  "build_number": 0,
+  "channel": "https://conda.anaconda.org/conda-forge/win-64",
+  "constrains": [
+    "expat 2.6.3.*"
+  ],
+  "depends": [
+    "ucrt >=10.0.20348.0",
+    "vc >=14.2,<15",
+    "vc14_runtime >=14.29.30139"
+  ],
+  "extracted_package_dir": "C:\\Users\\akuma\\.conda\\pkgs\\libexpat-2.6.3-he0c23c2_0",
+  "files": [
+    "Library/bin/libexpat.dll"
+  ],
+  "fn": "libexpat-2.6.3-he0c23c2_0.conda",
+  "license": "MIT",
+  "license_family": "MIT",
+  "link": {
+    "source": "C:\\Users\\akuma\\.conda\\pkgs\\libexpat-2.6.3-he0c23c2_0",
+    "type": 1
+  },
+  "md5": "21415fbf4d0de6767a621160b43e5dea",
+  "name": "libexpat",
+  "package_tarball_full_path": "C:\\Users\\akuma\\.conda\\pkgs\\libexpat-2.6.3-he0c23c2_0.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Library/bin/libexpat.dll",
+        "path_type": "hardlink",
+        "sha256": "1eef16676ab7cabca520ed0b809bb7f38b23250a7d051942cf1b288aebdb9bfe",
+        "sha256_in_prefix": "1eef16676ab7cabca520ed0b809bb7f38b23250a7d051942cf1b288aebdb9bfe",
+        "size_in_bytes": 402432
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "libexpat",
+  "sha256": "9543965d155b8da96fc67dd81705fe5c2571c7c00becc8de5534c850393d4e3c",
+  "size": 138992,
+  "subdir": "win-64",
+  "timestamp": 1725569106114,
+  "url": "https://conda.anaconda.org/conda-forge/win-64/libexpat-2.6.3-he0c23c2_0.conda",
+  "version": "2.6.3"
+}

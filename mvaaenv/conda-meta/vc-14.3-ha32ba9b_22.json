@@ -1,0 +1,33 @@
+{
+  "build": "ha32ba9b_22",
+  "build_number": 22,
+  "channel": "https://conda.anaconda.org/conda-forge/win-64",
+  "constrains": [],
+  "depends": [
+    "vc14_runtime >=14.38.33135"
+  ],
+  "extracted_package_dir": "C:\\Users\\akuma\\.conda\\pkgs\\vc-14.3-ha32ba9b_22",
+  "files": [],
+  "fn": "vc-14.3-ha32ba9b_22.conda",
+  "license": "BSD-3-Clause",
+  "license_family": "BSD",
+  "link": {
+    "source": "C:\\Users\\akuma\\.conda\\pkgs\\vc-14.3-ha32ba9b_22",
+    "type": 1
+  },
+  "md5": "311c9ba1dfdd2895a8cb08346ff26259",
+  "name": "vc",
+  "package_tarball_full_path": "C:\\Users\\akuma\\.conda\\pkgs\\vc-14.3-ha32ba9b_22.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "vc",
+  "sha256": "2a47c5bd8bec045959afada7063feacd074ad66b170c1ea92dd139b389fcf8fd",
+  "size": 17447,
+  "subdir": "win-64",
+  "timestamp": 1728400826998,
+  "track_features": "vc14",
+  "url": "https://conda.anaconda.org/conda-forge/win-64/vc-14.3-ha32ba9b_22.conda",
+  "version": "14.3"
+}
